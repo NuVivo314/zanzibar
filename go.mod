@@ -1,4 +1,4 @@
-module github.com/mishudark/zanzibar
+module github.com/NuVivo314/zanzibar
 
 go 1.18
 
